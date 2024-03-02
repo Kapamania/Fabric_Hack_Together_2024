@@ -1,4 +1,4 @@
-Welcome to the documentation for the RAG App – your comprehensive solution for summarizing legal documents and creating an interactive question-answering system. The RAG App is designed to streamline the process of understanding complex legal materials, enabling users to extract key insights efficiently.
+Welcome to the documentation for the Legal Summarizer - RAG App – your comprehensive solution for summarizing legal documents and creating an interactive question-answering system. The RAG App is designed to streamline the process of understanding complex legal materials, enabling users to extract key insights efficiently.
 
 Purpose:
 
