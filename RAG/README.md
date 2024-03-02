@@ -31,9 +31,29 @@ Step 4: Extract the texts from the PDFs in the form of raw texts
 
 ![image](https://github.com/Kapamania/Fabric_Hackathon_2024/assets/17914333/4daa190c-3438-4c78-9d92-198aa8943fb4)
 
-Step 5: Split the text using Character Text Split such that it should not increase token size
+Step 5: Split the text using Character Text Split such that it should not increase the token size
 
 ![image](https://github.com/Kapamania/Fabric_Hackathon_2024/assets/17914333/de4f2b0b-0bba-4115-95c2-682c16daacc8)
+
+Step 6: Download embeddings from OpenAI
+
+![image](https://github.com/Kapamania/Fabric_Hackathon_2024/assets/17914333/f9b7be9a-8e4d-428f-8143-88b8124f1791)
+
+Step 7: Searching the documents with the OpenAI embeddings that are generated
+
+![image](https://github.com/Kapamania/Fabric_Hackathon_2024/assets/17914333/85bff7aa-c765-49a6-99be-3ad9c03c5726)
+
+Step 8: Demonstrates how to load a question-answering chain and specify the underlying language model for processing textual data.
+
+![image](https://github.com/Kapamania/Fabric_Hackathon_2024/assets/17914333/a1e9ccf5-ddd9-49c5-97f1-7a487aa81ada)
+
+Step 9: Query the app and get results
+
+![image](https://github.com/Kapamania/Fabric_Hackathon_2024/assets/17914333/dc85f75c-0ba0-42a2-a3c7-0d48f1a7b505)
+
+
+
+
 
 
 
