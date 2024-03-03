@@ -1,1 +1,1 @@
-# Fabric_Hackathon_2024
+# Fabric_Hacktogether_2024
