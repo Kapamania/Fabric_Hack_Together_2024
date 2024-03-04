@@ -8,4 +8,4 @@ we have submitted 3 use cases
 2.**Real-time analytics: Stocks Analyzer and BI reporting**
 https://www.youtube.com/watch?v=bL7T0Wga_8I
 
-3. **Automation Driving using  Image classification  **
+3.** **Automation Driving using  Image classification  ****
