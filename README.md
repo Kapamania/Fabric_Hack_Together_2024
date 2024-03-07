@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=bL7T0Wga_8I
  Employing Microsoft Fabric and Synapse Data Engineering Notebook, we execute real-time analytics by fetching and scraping streaming API stocks data through a meticulously scheduled data pipeline. Subsequently, we load this data into delta tables, establishing semantic links via lakehouse architecture for real-time stock data reporting. Leveraging Power BI, our reports, directly linked to the data lake, auto-refresh, furnishing custom stock analyses seamlessly, ensuring timely and informed decision-making.
 
 
-3.** **Automation Driving using  Image classification  ****
+3.**Automation Driving using  Image classification**
 https://www.youtube.com/watch?v=WIo5ueqjwfM
 
 Utilizing Microsoft Fabric, a sophisticated image detection model is crafted using PySpark Python. This model harnesses the Azure AI service "Cognitive Services Image Detection" to identify objects and categorize them based on predefined parameters. Furthermore, seamless integration with Onelake Fabric lakehouse enables efficient storage of processed images. Such a model holds immense potential for implementation in Automation Driving, enhancing safety and efficiency through advanced image recognition capabilities.
